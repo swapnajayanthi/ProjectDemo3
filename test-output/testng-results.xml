@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61993" started-at="2018-01-21T13:24:58Z" finished-at="2018-01-21T13:26:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61993" started-at="2018-01-21T13:24:58Z" finished-at="2018-01-21T13:26:00Z">
+      <class name="com.jayanthi.selenium.businesscript.ClearTrip">
+        <test-method status="PASS" signature="openBrowser(java.lang.String)[pri:0, instance:com.jayanthi.selenium.businesscript.ClearTrip@7d9d1a19]" name="openBrowser" is-config="true" duration-ms="11824" started-at="2018-01-21T18:54:46Z" finished-at="2018-01-21T18:54:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="flights()[pri:0, instance:com.jayanthi.selenium.businesscript.ClearTrip@7d9d1a19]" name="flights" duration-ms="39475" started-at="2018-01-21T18:54:58Z" finished-at="2018-01-21T18:55:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flights -->
+        <test-method status="PASS" signature="multiCities()[pri:0, instance:com.jayanthi.selenium.businesscript.ClearTrip@7d9d1a19]" name="multiCities" duration-ms="22464" started-at="2018-01-21T18:55:37Z" finished-at="2018-01-21T18:56:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiCities -->
+      </class> <!-- com.jayanthi.selenium.businesscript.ClearTrip -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
